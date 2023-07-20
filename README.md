@@ -1,4 +1,4 @@
-![Screenshot (191)](https://github.com/Shubham-Kumar-Singh-03/upSkillCampus/assets/87908011/a173d440-00c6-44e9-a278-797259328cf6)# Bank Information System
+# Bank Information System
 
 This repository contains the code and documentation for my six-week internship project with upSkill Campus and IoT Academy under the collaboration of UniCoverage Technology. The project focuses on developing a Java-based application with functionalities related to Bank management and transactional operations. The problem statement involved creating a system that allowed users to register, log in, and perform various actions such as depositing, withdrawing, and changing their PIN. The project also included the implementation of a database for storing user information and transaction history. Through this internship, I had the opportunity to gain practical experience in Core Java and work on real-world applications.
 
